@@ -8,4 +8,5 @@ A simple Android application where users can guess a randomly generated number w
 # Technologies Used
 - Android Studio
 - Java
-Note: This project is created for learning purposes and as a simple demonstration of Android development concepts.
+#Note:
+ This project is created for learning purposes and as a simple demonstration of Android development concepts.
